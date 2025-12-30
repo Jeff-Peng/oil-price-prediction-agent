@@ -1,0 +1,23 @@
+# Oil Price Prediction Agent - Requirements
+# 
+# This project uses `uv` for dependency management.
+# Install uv: https://docs.astral.sh/uv/getting-started/installation/
+#
+# Quick start:
+#   uv sync              # Install all dependencies
+#   uv run python main.py # Run the project
+#   uv run jupyter lab   # Start Jupyter
+#
+# This file is kept for compatibility with pip-based workflows.
+# The canonical dependency specification is in pyproject.toml.
+
+google-genai>=1.0.0
+google-adk>=0.1.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+pandas>=2.0.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+jupyter>=1.0.0
+ipykernel>=6.0.0
+aiohttp>=3.8.0
