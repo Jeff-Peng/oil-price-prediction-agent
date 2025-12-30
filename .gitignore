@@ -54,3 +54,6 @@ Thumbs.db
 memory_data/
 session_data/
 predictions/
+
+# Course materials (not part of project)
+class/

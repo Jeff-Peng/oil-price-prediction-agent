@@ -162,20 +162,8 @@ oilprice/
 │   ├── __init__.py
 │   └── agent_config.py                  # Agent prompts & settings
 │
-├── 📚 docs/                             # Documentation
-│   └── PROJECT_GUIDE.md                 # Detailed guide
-│
-└── 📖 class/                            # Reference: Kaggle course notebooks
-    ├── day-1a-from-prompt-to-action.ipynb
-    ├── day-1b-agent-architectures.ipynb
-    ├── day-2a-agent-tools.ipynb
-    ├── day-2b-agent-tools-best-practices.ipynb
-    ├── day-3a-agent-sessions.ipynb
-    ├── day-3b-agent-memory.ipynb
-    ├── day-4a-agent-observability.ipynb
-    ├── day-4b-agent-evaluation.ipynb
-    ├── day-5a-agent2agent-communication.ipynb
-    └── day-5b-agent-deployment.ipynb
+└── 📚 docs/                             # Documentation
+    └── PROJECT_GUIDE.md                 # Detailed guide
 ```
 
 ## 🚀 Quick Start
@@ -337,7 +325,6 @@ This project is submitted for the **Kaggle 5-Day GenAI Intensive Course Capstone
 
 - [Kaggle 5-Day GenAI Intensive Course](https://www.kaggle.com/learn-guide/5-day-genai-intensive-course)
 - [Google ADK Documentation](https://google.github.io/adk-docs/)
-- Class notebooks in `class/` folder
 
 ## 📄 License
 

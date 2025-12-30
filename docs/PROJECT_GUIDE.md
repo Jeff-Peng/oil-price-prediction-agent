@@ -1009,8 +1009,8 @@ ModuleNotFoundError: No module named 'agents'
 
 1. **Check the logs**: Look at the console output for error messages
 2. **Enable debug logging**: Set `logging.DEBUG` in your code
-3. **Review class notebooks**: Check `class/` folder for reference patterns
-4. **Check ADK docs**: [Google ADK Documentation](https://google.github.io/adk-docs/)
+3. **Check ADK docs**: [Google ADK Documentation](https://google.github.io/adk-docs/)
+4. **Review course materials**: [Kaggle 5-Day GenAI Course](https://www.kaggle.com/learn-guide/5-day-genai-intensive-course)
 
 ---
 
@@ -1038,13 +1038,16 @@ This project demonstrates how to build a sophisticated multi-agent AI system usi
 
 ### Course Reference:
 
-The `class/` folder contains all course notebooks for reference:
-- `day-1a`: Basic agent with `google_search`
-- `day-1b`: `ParallelAgent`, `SequentialAgent`, `LoopAgent`
-- `day-2a`: `FunctionTool`, `AgentTool`, `BuiltInCodeExecutor`
-- `day-3a/3b`: `InMemorySessionService`, `InMemoryMemoryService`
-- `day-4a/4b`: Observability and evaluation
-- `day-5b`: Deployment patterns
+For detailed ADK patterns and examples, refer to:
+- [Kaggle 5-Day GenAI Intensive Course](https://www.kaggle.com/learn-guide/5-day-genai-intensive-course)
+- [Google ADK Documentation](https://google.github.io/adk-docs/)
+
+Key topics covered:
+- Day 1: Basic agents, `ParallelAgent`, `SequentialAgent`, `LoopAgent`
+- Day 2: `FunctionTool`, `AgentTool`, `BuiltInCodeExecutor`
+- Day 3: `InMemorySessionService`, `InMemoryMemoryService`
+- Day 4: Observability and evaluation
+- Day 5: Deployment patterns
 
 Happy coding! 🚀
 
